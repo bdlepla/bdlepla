@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryan LePla
-- 👀 I’m love software development
+- 👀 I love software development
 - 🌱 I’m currently practicing making android apps with Kotlin and practicing python programming
 
 <!---
